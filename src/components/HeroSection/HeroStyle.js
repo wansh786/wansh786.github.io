@@ -17,6 +17,13 @@ export const HeroContainer = styled.div`
 
   clip-path: polygon(0 0, 100% 0, 100% 100%, 70% 95%, 0 100%);
 `;
+export const SkillsContainer = styled.div`
+width: 100%;
+display: flex;
+flex-wrap: wrap;
+margin-top: 30px;
+gap: 30px;
+`
 
 export const HeroBg = styled.div`
   position: absolute;
@@ -173,7 +180,7 @@ export const ResumeButton = styled.a`
     appearance: button;
     text-decoration: none;
     width: 95%;
-    max-width: 300px;
+    max-width: 200px;
     text-align: center;
     padding: 16px 0;
     color: ${({ theme }) => theme.white};
