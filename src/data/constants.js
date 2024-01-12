@@ -6,7 +6,7 @@ export const Bio = {
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/wansh786",
+  github: "https://drive.google.com/file/d/1LFTftTZd3idQb6Rxai_R8DM_dPx6i5bb/view?usp=sharing",
   resume:
     "https://drive.google.com/file/d/1LFTftTZd3idQb6Rxai_R8DM_dPx6i5bb/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/raghuwansh-singh-b618321b2/",
@@ -183,7 +183,7 @@ export const projects = [
     description:
       "Invest Master is a comprehensive platform for buying and exploring cryptocurrency. It features a user-friendly interface, real-time market data, and seamless payment gateway integration.",
     image:
-      "https://private-user-images.githubusercontent.com/131011951/292464699-1f79994a-0d7f-42fc-b64e-770505adb7d2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ4ODgxNjQsIm5iZiI6MTcwNDg4Nzg2NCwicGF0aCI6Ii8xMzEwMTE5NTEvMjkyNDY0Njk5LTFmNzk5OTRhLTBkN2YtNDJmYy1iNjRlLTc3MDUwNWFkYjdkMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExMFQxMTU3NDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wOTk1NWM0YmE0ZDA0YWU1MjYzYzg3ZDg0YzFlODk1NmEzM2Q4ZDRlYTA0NDk2ZjUwMzJhMTk1ZWZkNTJhOTk1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9._sRknC3IMlWeMzTGMmfWFbwmqUwMfGXAQzV80HPbgn8",
+      "https://private-user-images.githubusercontent.com/131011951/292464699-1f79994a-0d7f-42fc-b64e-770505adb7d2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDUwNTYwMDMsIm5iZiI6MTcwNTA1NTcwMywicGF0aCI6Ii8xMzEwMTE5NTEvMjkyNDY0Njk5LTFmNzk5OTRhLTBkN2YtNDJmYy1iNjRlLTc3MDUwNWFkYjdkMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExMlQxMDM1MDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wN2M3N2M0NGZlMWVhZjI4ZjFkNDAyMjk3NTlmNjI3NDBiZDY5ZmJkODA3NjkwNGUxOTJjMTE3NjdjYzA1NGE5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.22ghT_cdhoUuqLyN4dbCRjyaTe5SIbN7LG_av0GYrgg",
     tags: [
       "React",
       "Material UI",
@@ -224,7 +224,7 @@ export const projects = [
     description:
       "Welcome to the Woodcraft GitHub page. Here, we share our commitment to promoting sustainable and responsible products through the power of technology.",
     image:
-      "https://private-user-images.githubusercontent.com/113384779/280595329-0972d08b-8600-444b-b63a-be35f0731c75.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ4ODk2MTksIm5iZiI6MTcwNDg4OTMxOSwicGF0aCI6Ii8xMTMzODQ3NzkvMjgwNTk1MzI5LTA5NzJkMDhiLTg2MDAtNDQ0Yi1iNjNhLWJlMzVmMDczMWM3NS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExMFQxMjIxNTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jODdjOTYyZTU0NjNkYzA1MzEzOGRjMjM4N2E1MWQ2ZDQ2Y2ZkOTNmZjRkNzcxNzE5MjcxZDM5ZjcyMWQxZTMzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.CMXAp642pUAqStSUM8Bn_UzRdEqVvZjPcekXEnfOzZQ",
+      "https://private-user-images.githubusercontent.com/113384779/280595329-0972d08b-8600-444b-b63a-be35f0731c75.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDUwNTYxODEsIm5iZiI6MTcwNTA1NTg4MSwicGF0aCI6Ii8xMTMzODQ3NzkvMjgwNTk1MzI5LTA5NzJkMDhiLTg2MDAtNDQ0Yi1iNjNhLWJlMzVmMDczMWM3NS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExMlQxMDM4MDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMDVhZmMxMGI5Nzk3YjczOWIwNWJiYzkyN2UzNTE0Y2RjNzcyZGMxOGFjMzY2OWNlN2U2ZjQ3ZmEyNGEzMTRjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.plEE2PKcbctSz3A5CKhARl39kyar-SRB2UbyJdiBbuU",
     tags: [
       "HTML",
       "javascript",
@@ -280,10 +280,10 @@ export const projects = [
   }
 ];
 
-export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
-];
+// export const TimeLineData = [
+//   { year: 2017, text: "Started my journey" },
+//   { year: 2018, text: "Worked as a freelance developer" },
+//   { year: 2019, text: "Founded JavaScript Mastery" },
+//   { year: 2020, text: "Shared my projects with the world" },
+//   { year: 2021, text: "Started my own platform" },
+// ];
