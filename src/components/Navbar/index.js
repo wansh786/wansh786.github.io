@@ -5,6 +5,7 @@ import { FaBars } from 'react-icons/fa';
 import { Bio } from '../../data/constants';
 import { Close, CloseRounded } from '@mui/icons-material';
 import { useTheme } from 'styled-components';
+import resume from './Raghuwansh-Kumar-Singh-Resume.pdf';
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = React.useState(false);
@@ -31,7 +32,15 @@ const Navbar = () => {
           <NavLink href='#contact'>Contact</NavLink>
         </NavItems>
         <ButtonContainer>
-          <GitHubButton href={Bio.resume} target="_blank">Check Resume</GitHubButton>
+          <GitHubButton id="resume-button-1"
+          className='nav-link resume'
+          onClick={()=>{
+            window.open(
+              `${Bio.resume}`,"_blank"
+            )
+          }}
+             href={resume}
+           download='Raghuwansh-Kumar-Singh-Resume'>Check Resume</GitHubButton>
         </ButtonContainer>
         {
           isOpen &&
